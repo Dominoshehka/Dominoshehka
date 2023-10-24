@@ -37,5 +37,6 @@
 ### 🏆: Достижения:
 
 <div>
-  <img src="[(https://github-profile-trophy.vercel.app/?username=Dominoshehka)](https://github.com/Dominoshehka/github-profile-trophy)" alt=""/>
+  <img src="https://github.com/ryo-ma/github-profile-
+trophy.vercel.app/?username=Dominoshehka" alt=""/>
 </div>
