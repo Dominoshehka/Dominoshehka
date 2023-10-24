@@ -7,3 +7,7 @@
       <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div> 
+
+<div id="viewprof" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dominoshehka&style=flat-square&color=blue" alt=""/>
+</div>
