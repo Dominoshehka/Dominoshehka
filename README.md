@@ -33,3 +33,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/ember/ember-original-wordmark.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" width="40" height="40"/>
 </div>
+
+### 🏆: Достижения:
+
+<div>
+  <img src="https://github.com/ryo-ma/github-profile-trophy.vercel.app/?username=Dominoshehka" alt=""/>
+</div>
