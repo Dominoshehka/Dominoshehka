@@ -40,3 +40,5 @@
   <img src="https://github.com/ryo-ma/github-profile-
 trophy.vercel.app/?username=Dominoshehka" alt=""/>
 </div>
+
+### ⌨️: Наиболее используемые языки:
