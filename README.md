@@ -42,3 +42,8 @@ trophy.vercel.app/?username=Dominoshehka" alt=""/>
 </div>
 
 ### ⌨️: Наиболее используемые языки:
+
+<div>
+  <img src="https://github.com/anuraghazra/github-
+readme-stats.vercel.app/api/top-langs/?username=Dominoshehka" alt""/>
+</div>
