@@ -47,3 +47,9 @@ trophy.vercel.app/?username=Dominoshehka" alt=""/>
   <img src="https://github.com/anuraghazra/github-
 readme-stats.vercel.app/api/top-langs/?username=Dominoshehka" alt""/>
 </div>
+
+### 📊: Статистика активности:
+
+<div>
+  <img src="https://github.com/Ashutosh00710/github-readme-activity-graph.vercel.app/graph?username=Dominoshehka&theme=dracula" alt=""/>
+</div>
