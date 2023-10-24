@@ -15,3 +15,5 @@
 <div id="heythere" align="center">
   <h1>Профиль на GITHUB</h1>hq
 </div>
+
+### :woman_technologist: Обо мне:
