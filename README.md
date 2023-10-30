@@ -8,7 +8,7 @@
 </div>
 
 <div id="viewprof" align="center">
-    <img src="https://komarev.com/ghpvc/?username=Dafeshka&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=Dominoshehka&style=flat-square&color=blue" alt=""/>
 </div>
 
 <div id="heythere" align="center">
@@ -36,17 +36,17 @@
 ### 🏆: Достижения:
 
 <div>
-     <img src="https://github-profile-trophy.vercel.app/?username=Dafeshka" alt=""/>
+     <img src="https://github-profile-trophy.vercel.app/?username=Dominoshehka" alt=""/>
 </div>
 
 ### ⌨️: Наиболее используемые языки:
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dafeshka" alt""/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dominoshehka" alt""/>
 </div>
 
 ### ⌨️: Статистика и активности:
 
 <div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dafeshka&theme=dracula" alt=""/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dominoshehka&theme=dracula" alt=""/>
 </div>
