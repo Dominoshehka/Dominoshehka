@@ -1,8 +1,8 @@
 <div id="badges" align = "center">
-    <a href = "[https://vk.com/danneshka](https://vk.com/feodosiiiiii)">
+    <a href = "https://vk.com/feodosiiiiii">
         <img src = "https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
     </a>
-    <a href = "[https://mail.google.com/mail/u/0/#inbox](https://instagram.com/fedya_fedotov_?igshid=MzMyNGUyNmU2YQ==)">
+    <a href = "https://instagram.com/fedya_fedotov_?igshid=MzMyNGUyNmU2YQ==">
         <img src = "https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
     </a>
 </div>
